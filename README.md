@@ -136,18 +136,17 @@ A custom Hugo portfolio focused on my work in cybersecurity, networking, AI auto
 ## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=midnightfireflies&show_icons=true&hide_border=true&theme=transparent&rank_icon=github"
-    height="165"
-    alt="Sadman Siam GitHub stats"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=midnightfireflies&layout=compact&hide_border=true&theme=transparent"
-    height="165"
-    alt="Top languages"
-  >
+  <a href="https://github.com/midnightfireflies?tab=repositories">
+    <img src="https://img.shields.io/badge/View_My_Repositories-171717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  </a>
+  <a href="https://github.com/midnightfireflies?tab=stars">
+    <img src="https://img.shields.io/badge/GitHub_Profile-F3EFE6?style=for-the-badge&logo=github&logoColor=171717" alt="GitHub Profile">
+  </a>
 </p>
 
+<p align="center">
+  Check out my repositories, current projects, and learning progress directly on GitHub.
+</p>
 ---
 
 ## What I'm Building Toward
